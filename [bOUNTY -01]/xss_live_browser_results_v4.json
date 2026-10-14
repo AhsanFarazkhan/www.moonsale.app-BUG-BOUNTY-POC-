@@ -1,0 +1,41 @@
+{
+ "url": "https://www.moonsale.app/mpresale/pentest-poc-256b601671",
+ "steps": [],
+ "diag": {
+  "kyc_found": true,
+  "rect": {
+   "x": 679.4140625,
+   "y": 315
+  },
+  "element_at_point": "SPAN.",
+  "at_is_badge": true,
+  "preloader_present": false
+ },
+ "overlays_hidden": 1,
+ "badge_info": {
+  "k": {
+   "x": 679.4140625,
+   "y": 315
+  },
+  "a": {
+   "x": 744.75,
+   "y": 315
+  },
+  "at_point": "SPAN"
+ },
+ "after_kyc": {
+  "popups": 1
+ },
+ "after_audit": {
+  "popups": 2
+ },
+ "flags": {
+  "script_ran": 0,
+  "img_ran": 0
+ },
+ "popup_urls": [
+  "about:blank",
+  "about:blank"
+ ],
+ "dialogs": []
+}
